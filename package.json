@@ -1,0 +1,9 @@
+{
+    "name" : "balances-example",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "express" : "4.5.x",
+        "node-cassandra-cql" : "0.4.x",
+        "redis" : "0.11.x"
+    }
+}

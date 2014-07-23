@@ -59,17 +59,18 @@ We will be able to do three calls (all ```GETs```, this is only a prove of conce
 
 To deposit 100 in account 101:
 
-```http://localhost:3000/101/deposit/100```
+``` http://localhost:3000/101/deposit/100 ```
 
 To check balance of account 101:
 
-```http://localhost:3000/101/balance```
+``` http://localhost:3000/101/balance ```
 
 To withdraw 10 from account 101:
 
-```http://localhost:3000/101/withdraw/100```
+``` http://localhost:3000/101/withdraw/100 ```
 
-Note: error handling has not be added to the app, so we should only use positive integers for deposits and withdraws.
+
+**Note:** error handling has not be added to the app, so we should only use positive integers for deposits and withdraws.
 
 ###  Descriving the app/solution
 *TODO*

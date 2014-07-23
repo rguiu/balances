@@ -1,6 +1,4 @@
-# Wallet operations using event sourcing pattern 
----
-
+## Wallet operations using event sourcing pattern 
 
 **Event Sourcing** is an architectural pattern in which your entities mantain their state as a sequence of events stored as they happen. [Described by Martin Fowler in his blog some years ago](http://martinfowler.com/eaaDev/EventSourcing.html).
 

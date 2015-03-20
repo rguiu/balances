@@ -1,8 +1,5 @@
-## Wallet operations using event sourcing pattern 
+## Wallet atomic operations
 
-**Event Sourcing** is an architectural pattern in which your entities mantain their state as a sequence of events stored as they happen. [Described by Martin Fowler in his blog some years ago](http://martinfowler.com/eaaDev/EventSourcing.html).
-
-I will built an online wallet using this pattern. Imagine a gambling site where a user can deposit money and play games or place bets with the money in his wallet.
 
 A wallet must support three main operations, 
 * Deposit
